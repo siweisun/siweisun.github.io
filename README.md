@@ -8,40 +8,16 @@ Associate Professor
 - School of Cyber Security, University of Chinese Academy of Sciences
 ```
 
-## Welcome to GitHub Pages
+## Research Interests
+- Symmetric-key Cryptography (Design and Cryptanalysis)
+- Automatic Cryptanalysis based on General Constraint Programming (SAT/SMT/CP/MILP)
+- Cryptanalysis of Symmetric-key Primitives with Quantum Computing 
 
-You can use the [editor on GitHub](https://github.com/siweisun/siweisun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Are you interested in working with me?
+I am looking for students and RAs with good motivation and self-initiation.  Make an appointment to see me, or drop me an email at sunsiwei@iie.ac.cn. Cryptography Researchers from all over the world are welcomed to visit our team for a short period -- no more than one month (we may cover the fee of local accommodation according to the situation).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siweisun/siweisun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Current Students
+- Lijun Lv (吕丽君)
+- Qiu Chen (陈秋)
+- Chunhui Zhang （张春辉)
+- Yin Lv (吕垠)
