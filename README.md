@@ -1,11 +1,12 @@
 ## Siwei Sun's Homepage
-
+```markdown
 Siwei Sun （孙思维）
+sunsiwei@iie.ac.cn
 
 Associate Professor
-[Institute of Information Engineering](http://www.iie.cas.cn)
-[School of Cyber Security, University of Chinese Academy of Sciences](http://scs.ucas.ac.cn/index.php/zh-cn/)
-
+- Institute of Information Engineering, Chinese Academy of Sciences
+- School of Cyber Security, University of Chinese Academy of Sciences
+```
 
 ## Welcome to GitHub Pages
 
