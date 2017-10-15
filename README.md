@@ -25,3 +25,6 @@ For visitors, the following documents are required to go through an interanl pro
 - Qiu Chen (陈秋)
 - Chunhui Zhang （张春辉)
 - Yin Lv (吕垠)
+
+## Visiting Students
+- Jun Yin (尹军)
