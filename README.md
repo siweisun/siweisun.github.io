@@ -20,10 +20,11 @@ Research Fellow
 - Inscrypt 2018
 - Indocrypt 2018
 - SePrIoT'18 (2nd Workshop on Security and Privacy in the Internet Of Things)
+- FSE 2019
 
 ## Reviews
 - Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt
-- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science
+- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications
 
 ## Teaching
 - Cryptanlaysis (Uniersity of Chinese Academy of Sciences)
