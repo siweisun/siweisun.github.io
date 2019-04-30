@@ -15,6 +15,8 @@ Research Fellow
 - Symmetric-key Cryptography (Design and Cryptanalysis)
 - Automatic Cryptanalysis based on General Constraint Programming (SAT/SMT/CP/MILP)
 - Efficient and Secure Implementation of Symmetric-key Cryptographic Algorithms
+- Blockchain technology
+
 
 ## Committe 
 - Inscrypt 2018
@@ -23,8 +25,8 @@ Research Fellow
 - FSE 2019
 
 ## Reviews
-- Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt
-- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications
+- Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE
+- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications, The computer Journal
 
 ## Teaching
 - Cryptanlaysis (Uniersity of Chinese Academy of Sciences)
