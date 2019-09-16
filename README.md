@@ -25,8 +25,8 @@ Research Fellow
 - FSE 2019
 
 ## Reviews
-- Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE
-- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications, The computer Journal
+- Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE, TCC
+- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications, The computer Journal, IEEE ACCESS
 
 ## Teaching
 - Cryptanlaysis (Uniersity of Chinese Academy of Sciences)
