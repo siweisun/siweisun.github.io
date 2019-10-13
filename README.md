@@ -25,18 +25,16 @@ Research Fellow
 - FSE 2019
 
 ## Reviews
-- Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE, TCC, CCS
+- Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE, TCC, CCS, ACNS
 - Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications, The computer Journal, IEEE ACCESS
 
 ## Teaching
-- Cryptanlaysis (Uniersity of Chinese Academy of Sciences)
-- RFID Security (Uniersity of Chinese Academy of Sciences)
+- Cryptanlaysis (University of Chinese Academy of Sciences)
+- RFID Security (University of Chinese Academy of Sciences)
 
-## Current Students
-- Lijun Lv (吕丽君)
-- Qiu Chen (陈秋)
-- Chunhui Zhang （张春辉)
-- Yin Lv (吕垠)
-
-## Visiting Students
-- Jun Yin (尹军)
+## Fundings
+- National Key R&D Program of China (Grant No. 2018YFB0804402), Co-PI
+- The Chinese Major Program of National Cryptography Development Foundation (Grant No. MMJJ20180102), PI
+- National Natural Science Foundation of China (MILP based Automatic Cryptanalysis), PI
+- National Natural Science Foundation of China (General Constraint Programming based Automatic Cryptanalysis), PI
+- Funding from Youth Innovation Promotion Association of Chinese Academy of Sciences, PI
