@@ -24,6 +24,8 @@ Research Fellow
 - Indocrypt 2018
 - SePrIoT'18 (2nd Workshop on Security and Privacy in the Internet Of Things)
 - FSE 2019
+- FSE 2020
+- Editorial board of IACR ToSC special issue on NIST Lightweight Submissions
 
 ## Reviews
 - Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE, TCC, CCS, ACNS
@@ -35,6 +37,7 @@ Research Fellow
 
 ## Fundings
 - National Key R&D Program of China (Grant No. 2018YFB0804402), Co-PI
+- National Key R&D Program of China (Crant No. 2018YFA0704704), Participant
 - The Chinese Major Program of National Cryptography Development Foundation (Grant No. MMJJ20180102), PI
 - National Natural Science Foundation of China (MILP based Automatic Cryptanalysis), PI
 - National Natural Science Foundation of China (General Constraint Programming based Automatic Cryptanalysis), PI
