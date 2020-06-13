@@ -9,14 +9,15 @@ Associate Professor
 - School of Cyber Security, University of Chinese Academy of Sciences
 
 Research Fellow
-- ST Engineering & SUTD (Singapore University of Technology and Design)
+- ST Engineering & SUTD (Singapore University of Technology and Design) 2018 ~ 2019
 ```
 
 ## Research Interests
 - Symmetric-key Cryptography (Design and Cryptanalysis)
 - Automatic Cryptanalysis based on General Constraint Programming (SAT/SMT/CP/MILP)
 - Efficient and Secure Implementation of Symmetric-key Cryptographic Algorithms
-- Blockchain technology
+- Symmetric-key Cryptanalysis with Quantum Computation
+- Synthesis of Quantum Circuits
 
 
 ## Committe 
