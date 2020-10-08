@@ -33,13 +33,16 @@ Research Fellow
 - Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications, The computer Journal, IEEE ACCESS
 
 ## Teaching
+- [Quantum computing and symmetric-key cryptography](https://github.com/siweisun/cas-symmetric-Q-lecture)
 - Cryptanlaysis (University of Chinese Academy of Sciences)
 - RFID Security (University of Chinese Academy of Sciences)
 
 ## Fundings
+- Symmetric-key Cryptography for the Next Generation Network: Design and Analysis Automation (Grant No. 62032014), Co-PI
 - National Key R&D Program of China (Grant No. 2018YFB0804402), Co-PI
 - National Key R&D Program of China (Crant No. 2018YFA0704704), Participant
 - The Chinese Major Program of National Cryptography Development Foundation (Grant No. MMJJ20180102), PI
 - National Natural Science Foundation of China (MILP based Automatic Cryptanalysis), PI
 - National Natural Science Foundation of China (General Constraint Programming based Automatic Cryptanalysis), PI
 - Funding from Youth Innovation Promotion Association of Chinese Academy of Sciences, PI
+
