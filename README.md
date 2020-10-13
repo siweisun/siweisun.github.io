@@ -34,8 +34,11 @@ Research Fellow
 
 ## Teaching
 - [Quantum computing and symmetric-key cryptography](https://github.com/siweisun/cas-symmetric-Q-lecture)
-- Cryptanlaysis (University of Chinese Academy of Sciences)
-- RFID Security (University of Chinese Academy of Sciences)
+- Cryptanlaysis (University of Chinese Academy of Sciences, Graduate Course)
+- RFID Security (University of Chinese Academy of Sciences, Graduate Course)
+- Introduction to Cryptography (University of Chinese Academy of Sciences, Graduate Course)
+
+
 
 ## Fundings
 - Symmetric-key Cryptography for the Next Generation Network: Design and Analysis Automation (Grant No. 62032014), Co-PI
