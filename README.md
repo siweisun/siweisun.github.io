@@ -6,10 +6,12 @@ sunsiwei@iie.ac.cn
 Associate Professor
 - Data Assurance and Communication Security Research Center, Chinese Academy of Sciences
 - Institute of Information Engineering, Chinese Academy of Sciences
-- School of Cyber Security, University of Chinese Academy of Sciences
+- University of Chinese Academy of Sciences
 
 Research Fellow
 - ST Engineering & SUTD (Singapore University of Technology and Design) 2018 ~ 2019
+
+In 2020, I was elected as a board member of the Chinese Association for Cryptologic Research (CACR)
 ```
 
 ## Research Interests
