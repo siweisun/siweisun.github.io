@@ -1,15 +1,18 @@
 ## About
 ```markdown
 Siwei Sun （孙思维）
-sunsiwei@iie.ac.cn
+siweisun.isaac@gmail.com
 
-Associate Professor
+Professor (01/07/2021 ~ )
+- School of Cryptologic Science and Technology, University of Chinese Academy of Sciences
+
+Associate Professor (01/10/2015 ~ 30/06/2021)
 - Data Assurance and Communication Security Research Center, Chinese Academy of Sciences
 - Institute of Information Engineering, Chinese Academy of Sciences
 - University of Chinese Academy of Sciences
 
-Research Fellow
-- ST Engineering & SUTD (Singapore University of Technology and Design) 2018 ~ 2019
+Research Fellow (2018 ~ 2019)
+- ST Engineering & SUTD (Singapore University of Technology and Design) 
 
 Board member of the Chinese Association for Cryptologic Research (CACR)
 Member of the Youth Work Committee of CACR
@@ -24,6 +27,7 @@ Member of the Youth Work Committee of CACR
 
 
 ## Committe 
+- Inscrypt 2021
 - Inscrypt 2018
 - Indocrypt 2018
 - SePrIoT'18 (2nd Workshop on Security and Privacy in the Internet Of Things)
