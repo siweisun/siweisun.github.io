@@ -4,7 +4,7 @@ Siwei Sun （孙思维）
 siweisun.isaac@gmail.com
 
 Professor (01/07/2021 ~ )
-- School of Cryptologic Science and Technology, University of Chinese Academy of Sciences
+- School of Cryptology, University of Chinese Academy of Sciences
 
 Associate Professor (01/10/2015 ~ 30/06/2021)
 - Data Assurance and Communication Security Research Center, Chinese Academy of Sciences
