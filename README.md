@@ -13,9 +13,12 @@ Associate Professor (01/10/2015 ~ 30/06/2021)
 
 Research Fellow (2018 ~ 2019)
 - ST Engineering & SUTD (Singapore University of Technology and Design) 
+```
 
-Board member of the Chinese Association for Cryptologic Research (CACR)
-Member of the Youth Work Committee of CACR
+```
+- Board member of the Chinese Association for Cryptologic Research (CACR)
+- Member of the Youth Work Committee of CACR
+- Executive member, CCF TCQC, Chinese Computer Federation
 ```
 
 ## Research Interests
