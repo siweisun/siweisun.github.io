@@ -39,8 +39,8 @@ Research Fellow (2018 ~ 2019)
 - Editorial board of IACR ToSC special issue on NIST Lightweight Submissions
 
 ## Reviews
-- Conferences: Crypto, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE, TCC, CCS, ACNS
-- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications, The computer Journal, IEEE ACCESS
+- Conferences: CRYPTO, EUROCRPT, ASIACRYPT, Inscrypt, Indocrypt, ICICS, Asiacrypt, FSE, TCC, CCS, ACNS
+- Journals: Theory of Computing, DCC (Design, Codes, and Cryptography), Science China -- Information Science, Journal of Software, Journal of Cryptography, Chinese Journal of Computers, Theoretical Computer Science, Journal of Information Security and Applications, The computer Journal
 
 ## Teaching
 - [Quantum computing and symmetric-key cryptography](https://github.com/siweisun/cas-symmetric-Q-lecture)
