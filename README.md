@@ -30,6 +30,9 @@ Research Fellow (2018 ~ 2019)
 
 
 ## Committe 
+- EUROCRYPT 2024
+- FSE 2023
+- FSE 2022
 - Inscrypt 2021
 - Inscrypt 2018
 - Indocrypt 2018
