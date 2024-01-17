@@ -1,7 +1,6 @@
 ## About
 ```markdown
 Siwei Sun （孙思维）
-siweisun.isaac@gmail.com
 
 Professor (01/07/2021 ~ )
 - School of Cryptology, University of Chinese Academy of Sciences
